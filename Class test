@@ -1,0 +1,8 @@
+Import java. Util. Scanner;
+Public class multi {
+Public static void main(String[] args){
+Int num=5;
+For(int i=1;i<=10;i++) 
+{
+System.out.print(""+num+"*"+i+"="+num*i+);
+}}}
